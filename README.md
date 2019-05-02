@@ -245,7 +245,7 @@ class Artist < ActiveRecord::Base
 end
 ```
 
-To test our newly-created class out, let's use the rake task `rake console`,
+To test our newly-created class out, let's use the rake task ```,
 which we've created in the `Rakefile`.
 
 
